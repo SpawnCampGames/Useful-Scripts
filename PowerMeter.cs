@@ -6,7 +6,7 @@ public class PowerMeter : MonoBehaviour
     float step;
 
     [SerializeField]
-    float min; the value 0 or an empty meter represents
+    float min; // the value 0 or an empty meter represents
     [SerializeField]
     float max; // the value that 1 / 100 / or a full meter represents
     [SerializeField]
