@@ -1,2 +1,2 @@
-# usefulscripts
-collection of useful cs scripts for unity
+# useful-scripts
+A collection of useful cSharp scripts for Unity.
