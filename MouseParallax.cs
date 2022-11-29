@@ -30,7 +30,6 @@ public class MouseParallax : MonoBehaviour {
         mousePos.x = -mousePos.x;
         mousePos.y = -mousePos.y;
 
-
         // set gameobject position with a modifier (speed & distance of effect)
         transform.position = new Vector3(startPos.x + (mousePos.x * parallaxModifier), startPos.y + (mousePos.y * parallaxModifier), mousePos.z);
     }
