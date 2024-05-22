@@ -1,6 +1,6 @@
-# useful-scripts / *Script Vault*
+# 📘 useful-scripts / *Script Vault*
 
-A collection of useful cSharp scripts for Unity.
+> A collection of useful cSharp scripts for Unity.
 
 <details>
 <summary><b>AI</b></summary>
