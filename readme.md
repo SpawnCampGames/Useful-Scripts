@@ -22,8 +22,9 @@
 
 <details>
 <summary><b>Debug</b></summary>
-
+  
 - [GlobalTransform.cs](https://gist.github.com/SpawnCampGames/2b21e67cf1b0c45ebc4a00284b32f758) - Variables that show Global Positions, Rotations, and Scales
+- [WriteOnScreen.cs](https://gist.github.com/SpawnCampGames/9a6e12c2f559e7dbfdaaeb5bd5be3238) - Uses Unity's OnGUI to write string on the screen
 </details>
 
 <details>
