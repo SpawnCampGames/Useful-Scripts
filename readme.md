@@ -15,6 +15,12 @@
 </details>
 
 <details>
+<summary><b>Mouse / Cursor</b></summary>
+
+- [FollowMouse.cs](https://gist.github.com/SpawnCampGames/ffe7719910969d13b22ff8896bc7e5d3)
+</details>
+
+<details>
 <summary><b>Controllers</b></summary>
 
 - [Coming Soon](https://github.com/SpawnCampGames/Useful-Scripts/blob/master/readme.md)
