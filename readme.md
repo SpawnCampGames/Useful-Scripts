@@ -17,7 +17,7 @@
 <details>
 <summary><b>Mouse / Cursor</b></summary>
 
-- [FollowMouse.cs](https://gist.github.com/SpawnCampGames/ffe7719910969d13b22ff8896bc7e5d3)
+- [FollowMouse.cs](https://gist.github.com/SpawnCampGames/ffe7719910969d13b22ff8896bc7e5d3) - Follow mouse script for 3D plane/2D plane / World Space Raycast
 </details>
 
 <details>
